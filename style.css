@@ -80,7 +80,7 @@ body {
 }
 
 #border-up{
-    border-top: 10px solid #ccc;
+    border-top: 10px solid white;
     padding-right: 14px;
     padding-left: 16px;
 }
@@ -94,4 +94,14 @@ body {
 
 .list-group{
     padding: 10px;
+    background: #ccc;
+    padding-left: -16px;
+    
+}
+
+#border-r{
+   
+    padding-left: 16px;
+    margin-left: 0px;
+    
 }
